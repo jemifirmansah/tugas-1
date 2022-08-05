@@ -77,7 +77,7 @@ echo "<hr>";
 
 // serigala
 $odin = new serigala;
-$odin->jumlah_kaki = 2;
+$odin->jumlah_kaki = 4;
 $odin->bisa_terbang = " tidak bisa terbang";
 
 echo "odin adalah serigala <br>";
